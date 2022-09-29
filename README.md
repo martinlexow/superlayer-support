@@ -4,7 +4,7 @@
 
 It is available on the [Mac App Store](https://apps.apple.com/app/id1601796450).
 
-This repository is meant to track [issues](https://github.com/martinlexow/superlayer-support/issues) and feature requests. It also gives you the chance to contribute your thoughts and wishes for future development, for which I would be incredible grateful!
+This repository is meant to track [issues](https://github.com/martinlexow/superlayer-support/issues) and feature requests. Take the chance to contribute your thoughts and wishes for future development — I would be incredible grateful for!
 
 - [Track Issue on GitHub](https://github.com/martinlexow/superlayer-support/issues)
 - [Track Issue via Email](mailto:mail@superlayer.app)
