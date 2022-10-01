@@ -12,7 +12,7 @@ This repository is meant to track [issues](https://github.com/martinlexow/superl
 ![](superlayer-header.png)
 
 ## Waiting for an answer?
-Superlayer is build by just one human being — that’s me, [Martin](https://twitter.com/martinlexow)! I’ll try my very best to make this app a terrific experience for you. I promise to read every incoming email and issue. Unfortunately, due to lack of time, I may do not respond in every case. Please bear with me and stay kind.
+Superlayer is build by just one human being — that’s me, [Martin](https://twitter.com/martinlexow)! I’ll try my very best to make this app a terrific experience for you. I promise to read every incoming email and issue. Due to lack of time, I may do not respond in every case. Please bear with me.
 
 ## Related Links
 
