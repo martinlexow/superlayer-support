@@ -8,6 +8,8 @@ When you’re reading this, it may still is available on the [Mac App Store](htt
 
 This repository ~~is~~ was meant to track [issues](https://github.com/martinlexow/superlayer-support/issues) and feature requests. ~~Take the chance to contribute your thoughts and wishes for future development — I would be incredible grateful for!~~
 
+Thank you for participating, everyone! ❤️
+
 - [~~Track Issue / Suggest Feature on GitHub~~](https://github.com/martinlexow/superlayer-support/issues)
 
 ![](superlayer-header.png)
